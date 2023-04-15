@@ -19,7 +19,7 @@
 ![Screenshot 2023-04-15 at 1 49 05 PM](https://user-images.githubusercontent.com/63305557/232245831-0c93c8ab-2107-41a0-ba2f-bd2593f6d042.png)
 
 ##### Demo
-![Demo](https://user-images.githubusercontent.com/63305557/232246370-e6864517-1f4f-4595-bd09-54aa0d3f63b9.mp4)
+[Demo](https://user-images.githubusercontent.com/63305557/232246370-e6864517-1f4f-4595-bd09-54aa0d3f63b9.mp4)
 
 
 
