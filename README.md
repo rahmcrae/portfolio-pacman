@@ -1,16 +1,18 @@
 # PACMAN PROJECT
 
-### Repository for recreating the pacman game
+### Repository for executing a basic implementation of the classic arcade game Pac-Man using using HTML5 canvas and JavaScript.
 
 ## Goal
 ##### ✨ Create playable pacman game accounting for different gameplay scenarios
 ##### ✨ Include edge detection
-##### ✨ Include Animation
+##### ✨ Include animation
 ##### ✨ Allow user to play again
 
-## Limitations / Bugs
-##### 🔍 Gameplay speed increases after user loses & presses play again
-##### 🔍 Game doesn't fully reset when users presess play again
+## How To Run
+##### :question-mark: Drag index file into browser, after cloning repo or setting up key files (3): index.html, script.js, style.css
+
+## Limitations / Future Improvements 
+##### 🔍 Game doesn't fully reset (i.e. number of pellets on board) when users presses play again
 ##### 🔍 Premature game completion before all pellets are eaten
 
 ## Screenshots / Demo
