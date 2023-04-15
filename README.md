@@ -16,9 +16,12 @@
 ## Screenshots / Demo
 
 ##### Screenshot
-
-<img width="789" alt="Screenshot 2023-02-03 at 1 06 44 AM" src="https://user-images.githubusercontent.com/63305557/216525613-e2d493e7-55d4-4706-9592-bd918681a97f.png">
+![Screenshot 2023-04-15 at 1 49 05 PM](https://user-images.githubusercontent.com/63305557/232245831-0c93c8ab-2107-41a0-ba2f-bd2593f6d042.png)
 
 ##### Demo
+<a href="https://www.loom.com/share/85926481dade4165a3729e917434b3c1">
+    <p>pacman game - 15 April 2023 - Watch Video</p>
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/85926481dade4165a3729e917434b3c1-with-play.gif">
+  </a>
 
-https://user-images.githubusercontent.com/63305557/216525741-f7364fb3-69c9-46db-9740-f68b144860ea.mp4
+
