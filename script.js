@@ -469,7 +469,7 @@ function checkGameOver(){
 }
 
 function checkGameWin(){
-  if (GAME_STATE.pelletsEaten === 182){
+  if (GAME_STATE.pelletsEaten === 200){
     console.log("You won!");
     for (var i = 0; i < ghosts.length; i++){
       ghosts[i].stop();
