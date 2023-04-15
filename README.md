@@ -1,4 +1,4 @@
-# PACMAN EXERCISE
+# PACMAN PROJECT
 
 ### Repository for recreating the pacman game
 
