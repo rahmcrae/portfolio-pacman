@@ -9,9 +9,9 @@
 ##### :sparkles: Allow user to play again
 
 ## Limitations / Bugs
-##### :notepad: Gameplay speed increases after user loses & presses play again
-##### :notepad: Game doesn't fully reset when users presess play again
-##### :notepad: Premature game completion before all pellets are eaten
+##### :catepillar: Gameplay speed increases after user loses & presses play again
+##### :catepillar: Game doesn't fully reset when users presess play again
+##### :catepillar: Premature game completion before all pellets are eaten
 
 ## Screenshots / Demo
 
