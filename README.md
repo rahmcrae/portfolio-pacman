@@ -3,15 +3,15 @@
 ### Repository for recreating the pacman game
 
 ## Goal
-##### :sparkles: Create playable pacman game accounting for different gameplay scenarios
-##### :sparkles: Include edge detection
-##### :sparkles: Include Animation
-##### :sparkles: Allow user to play again
+##### ✨ Create playable pacman game accounting for different gameplay scenarios
+##### ✨ Include edge detection
+##### ✨ Include Animation
+##### ✨ Allow user to play again
 
 ## Limitations / Bugs
-##### :catepillar: Gameplay speed increases after user loses & presses play again
-##### :catepillar: Game doesn't fully reset when users presess play again
-##### :catepillar: Premature game completion before all pellets are eaten
+##### 🔍 Gameplay speed increases after user loses & presses play again
+##### 🔍 Game doesn't fully reset when users presess play again
+##### 🔍 Premature game completion before all pellets are eaten
 
 ## Screenshots / Demo
 
