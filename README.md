@@ -9,7 +9,7 @@
 ##### ✨ Allow user to play again
 
 ## How To Run
-##### :question-mark: Drag index file into browser, after cloning repo or setting up key files (3): index.html, script.js, style.css
+##### Drag index file into browser, after cloning repo or setting up key files (3): index.html, script.js, style.css
 
 ## Limitations / Future Improvements 
 ##### 🔍 Game doesn't fully reset (i.e. number of pellets on board) when users presses play again
